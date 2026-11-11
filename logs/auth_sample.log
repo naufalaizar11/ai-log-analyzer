@@ -1,0 +1,5 @@
+Oct 15 10:23:40 server-1 sshd[1234]: Failed password for root from 192.168.1.50 port 3301 ssh2
+Oct 15 10:24:12 server-1 sshd[1235]: Failed password for root from 192.168.1.50 port 3310 ssh2
+Oct 15 10:24:30 server-1 sshd[1235]: Failed password for root from 192.168.1.50 port 3315 ssh2
+Oct 15 10:25:12 server-1 sshd[1236]: Accepted password for naufal from 10.0.0.5 port 4421 ssh2
+Oct 15 10:25:40 server-1 sshd[1238]: Failed password for admin from 203.0.113.4 port 5021 ssh2
